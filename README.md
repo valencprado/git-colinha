@@ -165,4 +165,4 @@ Caso algo não tenha ficado muito compreensível ou queira aprender mais sobre, 
 
 Fico à disposição para sanar dúvidas e criar mais conteúdos relacionados.
 
-*Feito por Valentina Corradini Prado.*
+*Feito por [Valentina Corradini Prado](https://github.com/valencprado).*
