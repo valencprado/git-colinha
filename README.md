@@ -1,7 +1,5 @@
 # Primeiros Passos com Git
 
-Status: In progress
-
 # Tudo o que você precisa saber sobre Git
 
 Se você acabou de entrar no desenvolvimento de software, com certeza já ouviu (e, talvez, bastante) sobre Git e Github, além de sua importância para a construção de seu portfólio. Porém, para mexer com essas ferramentas, é necessário conhecer o básico das suas utilidades e, afinal, o que significam esses temidos termos.
