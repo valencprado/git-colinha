@@ -5,6 +5,7 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 ## Sumário
 
 - [Primeiros Passos](./Primeiros_passos.md)
+
 Mais em breve!
 - Estágios dos arquivos
 - Branches
