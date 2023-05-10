@@ -14,4 +14,5 @@ Mais em breve!
 - Merge x Rebase 
 - Conflitos de Merge
 - Checkpoints mais sérios: tags e releases
+- Commits semânticos
 - GitHub Pages
