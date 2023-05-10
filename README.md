@@ -5,10 +5,12 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 ## Sumário
 
 - [Primeiros Passos](./Primeiros_passos.md)
+Mais em breve!
 - Estágios dos arquivos
 - Branches
 - Pull e Pull Request
 - Forkando Repositórios
 - Merge x Rebase 
+- Conflitos de Merge
 - Checkpoints mais sérios: tags e releases
-Mais em breve!
+- GitHub Pages
