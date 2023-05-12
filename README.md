@@ -8,6 +8,7 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 
 Mais em breve!
 - Estágios dos arquivos
+- README.md e .gitignore
 - Branches
 - Pull e Pull Request
 - Forkando Repositórios
