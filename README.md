@@ -5,11 +5,13 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 ## Sumário
 
 - [Primeiros Passos](./Primeiros_passos.md)
+- [Estágios dos arquivos](./estagios.md)
+- [README.md e .gitignore](./readme_e_gitignore.md)
+
 
 Mais em breve!
-- [Estágios dos arquivos](./estagios.md)
+
 - Mais sobre estágios
-- [README.md e .gitignore](./readme_e_gitignore.md)
 - Branches
 - Pull e Pull Request
 - Forkando Repositórios
