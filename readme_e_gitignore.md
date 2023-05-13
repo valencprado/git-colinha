@@ -1,5 +1,8 @@
 # README e .gitignore: dois arquivos importantes e conhecidos
 
+
+[Voltar](./README.md)
+
 Se você entrar em alguns repositórios famosos, como o do [React](https://github.com/facebook/react) ou outros [exemplo pessoal](https://github.com/valencprado/nlw-setup), deve ter reparado que existe uma explicação visual deste repositório em forma de texto. Interessante, né? Mas como esse arquivo é feito? Além disso, há outro arquivo importante, exibido logo quando um novo repositório é criado: o **.gitignore**. Esse arquivo falará brevemente sobre esses e ainda mais!
 
 
@@ -32,7 +35,9 @@ código em bloco (``` código aqui ```)
 - lista
 - sem
 - ordem
+
 [link](url)
+
 ![texto alternativo de imagem](url da imagem)
 ```
 
@@ -45,6 +50,29 @@ Recomendo esse artigo da [Rocketseat](https://blog.rocketseat.com.br/como-fazer-
 ## Ignorando arquivos: .gitignore
 
 Esse arquivo (que não possui nome, apenas a extensão .gitignore) possui a finalidade de não deixar determinadas pastas e arquivos serem enviadas ao GitHub. Mas por quê? Algumas ferramentas servem apenas para o desenvolvimento e podem tornar o projeto pesado para quem puxá-lo. 
+
+O próprio GitHub oferece templates baseados em padrões comuns de projeto. Porém, você pode criar o seu próprio ignorador.
+
+Para escrever os arquivos que serão ignorados, você pode ignorar:
+
+- Pastas (exemplo: /node_modules)
+- Extensões de arquivos
+- O próprio nome do arquivo
+
+Ainda é possível utilizar asteriscos e pontuações para facilitar. Por exemplo: 
+
+- *.log (todos os arquivos com essa extensão)
+- **/logs (pasta com esse nome em qualquer lugar do repositório)
+- !important.log (esse arquivo não será ignorado, é uma exceção)
+
+Há vários outras formas, por isso sugiro este [artigo](https://www.atlassian.com/br/git/tutorials/saving-changes/gitignore). 
+
+
+## Conclusão
+
+Há dois arquivos comumente utilizados em repositórios: o **README**, responsável por explicar o projeto, e o **.gitignore**, que ignora arquivos desnecessários. Agora, sinta-se à vontade para testá-los em suas aplicações códigos. Há mais tipos de arquivos para configuração, mas esses ficam para um próximo artigo. 
+
+*Feito por [Valentina Corradini Prado](https://github.com/valencprado).*
 
 
 

@@ -8,7 +8,7 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 
 Mais em breve!
 - Estágios dos arquivos
-- README.md e .gitignore
+- [README.md e .gitignore](./readme_e_gitignore.md)
 - Branches
 - Pull e Pull Request
 - Forkando Repositórios
