@@ -1,5 +1,7 @@
 # Estágios dos Arquivos no Git: o ciclo dos arquivos
 
+[Voltar](./README.md)
+
 ![Estágios](https://miro.medium.com/v2/resize:fit:720/format:webp/1*tl3B9CRamhIw54usIfXubw.png)
 
 Entrando em uma parte mais conceitual, porém bastante importante de ser compreendida, temos os estados dos arquivos dentro de um repositório. Seguindo o diagrama acima, os arquivos "se sentem" de várias formas.
