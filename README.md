@@ -12,6 +12,7 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 Mais em breve!
 
 - Mais sobre estágios
+- Analisando histórico
 - Branches
 - Pull e Pull Request
 - Forkando Repositórios
