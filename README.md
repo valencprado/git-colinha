@@ -6,12 +6,12 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 
 - [Primeiros Passos](./Primeiros_passos.md)
 - [Estágios dos arquivos](./estagios.md)
+- [Mais sobre estágios](./mais_estagios.md)
 - [README.md e .gitignore](./readme_e_gitignore.md)
 
 
 Mais em breve!
 
-- Mais sobre estágios
 - Analisando histórico
 - Branches
 - Pull e Pull Request
