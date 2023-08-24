@@ -4,6 +4,8 @@ Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito
 
 ## Sumário
 
+_Recomendo ler nessa ordem 👇_
+
 - [Primeiros Passos](./Primeiros_passos.md)
 - [Estágios dos arquivos](./estagios.md)
 - [Mais sobre estágios](./mais_estagios.md)
