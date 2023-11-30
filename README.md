@@ -10,7 +10,7 @@ _Recomendo ler nessa ordem 👇_
 - [Estágios dos arquivos](./estagios.md)
 - [Mais sobre estágios](./mais_estagios.md)
 - [README.md e .gitignore](./readme_e_gitignore.md)
-- [Analisando histórico](./historico_logs.md)]
+- [Analisando histórico](./historico_logs.md)
 
 
 Mais em breve!
