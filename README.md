@@ -2,6 +2,8 @@
 
 Tutoriais simples para quem nunca mexeu com Git e GitHub, duas tecnologias muito importantes para quem anseia trabalhar com TI e desenvolvimento de forma geral.
 
+Recomendações de conteúdos externos [aqui](./recommends.md)!
+
 ## Sumário
 
 _Recomendo ler nessa ordem 👇_
