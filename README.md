@@ -11,14 +11,14 @@ _Recomendo ler nessa ordem 👇_
 - [Mais sobre estágios](./mais_estagios.md)
 - [README.md e .gitignore](./readme_e_gitignore.md)
 - [Analisando histórico](./historico_logs.md)
+- [Branches](./branches.md)
 
 
 Mais em breve!
 
-- Branches
 - Pull e Pull Request
-- Forkando Repositórios
 - Merge x Rebase 
+- Forkando Repositórios
 - Conflitos de Merge
 - Checkpoints mais sérios: tags e releases
 - Commits semânticos
