@@ -14,13 +14,13 @@ _Recomendo ler nessa ordem 👇_
 - [README.md e .gitignore](./readme_e_gitignore.md)
 - [Analisando histórico](./historico_logs.md)
 - [Branches](./branches.md)
+- [Forkando Repositórios]
+- [Pull e Pull Request](./pull.md)
 
 
 Mais em breve!
 
-- Pull e Pull Request
-- Merge x Rebase 
-- Forkando Repositórios
+- Merge x Rebase
 - Conflitos de Merge
 - Checkpoints mais sérios: tags e releases
 - Commits semânticos
