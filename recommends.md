@@ -8,7 +8,7 @@ Referências oficiais do Git: https://git-scm.com/doc
 - [Documentação oficial Git em ignlês](https://git-scm.com/docs)
 - [Documentação oficial Github em português](https://docs.github.com/pt)
 - [Recomendações extras do próprio Git!](https://git-scm.com/doc/ext) 
-
+- [Repositório com tutoriais](https://github.com/DanielHe4rt/git4noobs)
 
 ### Devhints
 
