@@ -21,6 +21,7 @@ Referências oficiais do Git: https://git-scm.com/doc
 
 ## Vídeos
 
+- [Git e Github para iniciantes](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A&si=ko5SZoZPaDqb6X5D)
 - [Git e Github na Vida Real (curso no Youtube)](https://youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg&si=CB-k3R28dvKmrsnG)
 - [Vídeos da Rafa Ballerini](https://youtube.com/playlist?list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8&si=c_1v_A-dTnIcyVN-)
 - [Dicionário do Programador: Git (Código Fonte TV)](https://youtu.be/za5KWZ5pRag?si=Dyucr80d2NpC096R)
