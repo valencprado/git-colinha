@@ -14,7 +14,7 @@ _Recomendo ler nessa ordem 👇_
 - [README.md e .gitignore](./readme_e_gitignore.md)
 - [Analisando histórico](./historico_logs.md)
 - [Branches](./branches.md)
-- [Forkando Repositórios]
+- [Forkando Repositórios](./fork.md)
 - [Pull e Pull Request](./pull.md)
 
 
